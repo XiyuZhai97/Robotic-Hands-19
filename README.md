@@ -5,4 +5,4 @@ Preview
 ---------------
  ![Alt text](/images/Product.png)
 
- ![Alt text(/images/inside.jpg)
+ ![Alt text](/images/inside.jpg)
